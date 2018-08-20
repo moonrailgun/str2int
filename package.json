@@ -1,0 +1,24 @@
+{
+  "name": "str2int",
+  "version": "1.0.0",
+  "description": "a module to encode str to int",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonrailgun/str2int.git"
+  },
+  "keywords": [
+    "str2int",
+    "str-to-int",
+    "encode"
+  ],
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonrailgun/str2int/issues"
+  },
+  "homepage": "https://github.com/moonrailgun/str2int#readme"
+}
